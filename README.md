@@ -167,6 +167,11 @@ When I'm not immersed in code and algorithms, I enjoy:
 
 *"With great power comes great responsibility" - Uncle Ben*
 
+<p align="center">
+  <img src="https://i.gifer.com/7Imx.gif" width="300" alt="Miles Morales Swinging Animation"/>
+</p>
+
+
 ⭐️ From [xampos101](https://github.com/xampos101)
 
 </div>
