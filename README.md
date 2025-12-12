@@ -173,6 +173,6 @@ When I'm not immersed in code and algorithms, I enjoy:
 
 
 
-⭐️ From [xampos101](https://github.com/xampos101)
+From [xampos101](https://github.com/xampos101)
 
 </div>
