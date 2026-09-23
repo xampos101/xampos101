@@ -14,7 +14,7 @@
 
 ## 🎓 About Me
 
-I'm an **Undergraduate Computer Science Student** passionate about developing innovative solutions at the intersection of **Computer Vision**, **Deep Learning**, and **Software Engineering**. My focus is on creating high-impact systems that solve real-world problems through intelligent automation and advanced visual recognition.
+I'm an **Graduated Computer Science Student** passionate about developing innovative solutions at the intersection of **Computer Vision**, **Deep Learning**, and **Software Engineering**. My focus is on creating high-impact systems that solve real-world problems through intelligent automation and advanced visual recognition.
 
 ```python
 class Developer:
